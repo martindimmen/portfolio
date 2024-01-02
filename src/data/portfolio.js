@@ -18,10 +18,4 @@ export default [
     stack: ["Python, Tkinter"],
     link: "https://github.com/martindimmen/STAI_TSP",
   },
-  {
-    title: "Personal Portfolio Website",
-    imgUrl: "",
-    stack: ["React, Javascript, Vite, Tailwind"],
-    link: "",
-  },
 ];
