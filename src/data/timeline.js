@@ -11,12 +11,12 @@ export default [
     title: "Vice President, Stavanger AI(STAI)",
     duration: "04.2023-",
     details:
-      " Working to promote artificial intelligence among students at the University of Stavanger.",
+      "Working to promote artificial intelligence among students at the University of Stavanger.",
   },
   {
     year: "2021-2023",
     title: "Teaching Assistant",
-    duration: "",
+    duration: "Years",
     details: "Teaching Assistant in dat120 basic programming",
   },
   {
