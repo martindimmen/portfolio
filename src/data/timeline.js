@@ -20,8 +20,9 @@ export default [
     details: "Finished my bachelor after writing my thesis for UiS Subsea",
   },
   {
-    year: "Today",
-    title: "Software Engineer",
+    year: "2021-2023",
+    title:
+      "Event manager and Vice Precident for LED(Linjeforening Elektro Data)",
     duration: "newly graduated",
     details: "Yeet lorem ipsum yeet",
   },
