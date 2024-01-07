@@ -14,6 +14,12 @@ export default [
       " Working to promote artificial intelligence among students at the University of Stavanger.",
   },
   {
+    year: "2021-2023",
+    title: "Teaching Assistant",
+    duration: "",
+    details: "Teaching Assistant in dat120 basic programming",
+  },
+  {
     year: "2023",
     title: "Bachelor in Software Engineering",
     duration: "2023",
